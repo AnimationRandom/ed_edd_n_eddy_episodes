@@ -8,3 +8,8 @@
   text-decoration: none;
   text-transform: capitalize;
 }
+
+body{
+  background-color: #9ad44e;
+  padding:20px;
+}
