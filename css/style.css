@@ -66,6 +66,17 @@ body{
   border-radius: 5px;
 }
 
+.container .video-list-container .list{
+  display: flex;
+  align-items: center;
+  gap:15px;
+  padding:10px;
+  background-color: #eee;
+  cursor: pointer;
+  border-radius; 5px;
+  margin-bottom: 10px;
+}
+
 .container .video-list-container .list .list-video{
   width: 100px;
 }
