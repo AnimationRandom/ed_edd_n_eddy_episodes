@@ -51,3 +51,7 @@ body{
   background-color: #fff;
   padding:15px;
 }
+
+.container .video-list-container .list .list-video{
+  width: 100px;
+}
