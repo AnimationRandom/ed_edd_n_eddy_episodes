@@ -77,7 +77,24 @@ body{
   margin-bottom: 10px;
 }
 
-.container .video-list-container .list .list-video{
-  width: 100px;
+.container .video-list-container .list:last-child{
+  margin-bottom: 0;
 }
 
+.container .video-list-container .list.active{
+  background-color: #444;
+}
+
+.container .video-list-container .list.active .list-title{
+  color: #fff;
+}
+
+.container .video-list-container .list .list-video{
+  width: 100px;
+  border-radius: 5px;
+}
+
+.container .video-list-container .list .list-title{
+  font-size: 17px;
+  color:#444;
+}
