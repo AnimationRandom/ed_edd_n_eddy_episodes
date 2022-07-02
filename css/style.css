@@ -13,3 +13,7 @@ body{
   background-color: #9ad44e;
   padding:20px;
 }
+
+.container .main-video-container{
+  flex:1 1
+}
