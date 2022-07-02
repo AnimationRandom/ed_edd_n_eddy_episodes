@@ -52,16 +52,18 @@ body{
   padding:15px;
 }
 
-.container .video-list-container .list .list-video{
-  
+.container .video-list-container::-webkit-scrollbar{
+  width: 10px;
 }
 
-.container .video-list-container .list .list-video{
-  
+.container .video-list-container::-webkit-scrollbar-track{
+  background-color: #fff;
+  border-radius: 5px;
 }
 
-.container .video-list-container .list .list-video{
-  
+.container .video-list-container::-webkit-scrollbar-thumb{
+  background-color: #fff;
+  border-radius: 5px;
 }
 
 .container .video-list-container .list .list-video{
