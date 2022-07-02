@@ -62,7 +62,7 @@ body{
 }
 
 .container .video-list-container::-webkit-scrollbar-thumb{
-  background-color: #fff;
+  background-color: #444;
   border-radius: 5px;
 }
 
